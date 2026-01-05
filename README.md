@@ -38,7 +38,7 @@ Le projet couvre l’ensemble du pipeline Machine Learning :
 
 - Données bruitées avec valeurs aberrantes et biais
 
-# Prétraitement & Feature Engineering
+# Prétraitement et Feature Engineering
 
 - Nettoyage des valeurs aberrantes (âge, revenus, taux d’intérêt, dettes, etc.)
 
