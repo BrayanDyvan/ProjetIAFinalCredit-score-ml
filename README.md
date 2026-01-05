@@ -1,5 +1,16 @@
 Credit Score Classification – Machine Learning Project
 
+##  Sommaire
+
+- [Credit Score Classification – Machine Learning Project](#-credit-score-classification--machine-learning-project)
+- [Description du projet](#-description-du-projet)
+- [Données](#-données)
+- [Prétraitement & Feature Engineering](#️-prétraitement--feature-engineering)
+- [Modèles testés](#-modèles-testés)
+- [Évaluation](#-évaluation)
+- [Conclusion](#-conclusion)
+- [Technologies utilisées](#-technologies-utilisées)
+
 # Description du projet
 
 Ce projet vise à prédire le score de crédit des clients (Poor, Standard, Good) à partir de données financières et bancaires réelles issues de Kaggle.
@@ -43,7 +54,7 @@ Le projet couvre l’ensemble du pipeline Machine Learning :
 
 - Gestion avancée des valeurs manquantes
 
-Modèles testés
+# Modèles testés
 
 Les modèles suivants ont été implémentés et comparés :
 
@@ -56,7 +67,7 @@ K-Nearest Neighbors (KNN)	76.5 %
 
 KNN a été retenu comme meilleur modèle, après optimisation du paramètre k.
 
-Évaluation
+# Évaluation
 
 - Accuracy
 
@@ -68,12 +79,12 @@ KNN a été retenu comme meilleur modèle, après optimisation du paramètre k.
 
 - Analyse du biais et de la variance
 
-Conclusion
+# Conclusion
 
 Le modèle KNN offre le meilleur compromis entre performance et robustesse pour ce problème.
 Ce projet démontre une maîtrise complète d’un projet de Machine Learning appliqué à la finance.
 
-Technologies utilisées
+# Technologies utilisées
 
 - Python
 
