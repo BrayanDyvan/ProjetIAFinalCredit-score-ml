@@ -10,6 +10,7 @@ Credit Score Classification – Machine Learning Project
 - [Évaluation](#évaluation)
 - [Conclusion](#conclusion)
 - [Technologies utilisées](#technologies-utilisées)
+- [Auteurs](#auteurs)
 
 # Description du projet
 
@@ -96,4 +97,10 @@ Ce projet démontre une maîtrise complète d’un projet de Machine Learning ap
 
 - Jupyter Notebook
 
-  
+# Auteurs
+
+Projet réalisé dans le cadre du cours Intelligence artificielle.  Cégep de Trois‑Rivières.
+
+- Brayan Dyvan Lando Longmene
+
+- Fanta HAdizatou Momo
