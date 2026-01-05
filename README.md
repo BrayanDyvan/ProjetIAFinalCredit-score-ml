@@ -5,7 +5,7 @@ Credit Score Classification – Machine Learning Project
 - [Credit Score Classification – Machine Learning Project](#credit-score-classification--machine-learning-project)
 - [Description du projet](#description-du-projet)
 - [Données](#données)
-- [Prétraitement et Feature Engineering](#pretraitement-et-feature-engineering)
+- [Prétraitement et Feature Engineering](#prétraitement-et-feature-engineering)
 - [Modèles testés](#modèles-testés)
 - [Évaluation](#évaluation)
 - [Conclusion](#conclusion)
