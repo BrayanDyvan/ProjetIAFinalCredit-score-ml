@@ -104,3 +104,16 @@ Projet réalisé dans le cadre du cours Intelligence artificielle.  Cégep de Tr
 - Brayan Dyvan Lando Longmene
 
 - Fanta HAdizatou Momo
+
+# Roles
+
+Brayan Dyvan Lando Longmene 
+
+- Prétraitement et Feature Engineering
+- Modèles testés (Naive Bayes (from scratch))
+- Évaluation (Naive Bayes (from scratch))
+  
+Fanta HAdizatou Momo
+
+- Modèles testés
+- Évaluation
